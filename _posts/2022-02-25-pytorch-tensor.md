@@ -1,5 +1,10 @@
+---
+layout: single
+title:  "딥러닝을 위한 파이토치 입문 - 텐서"
+---
+
 ## 딥러닝을 위한 파이토치 입문 - 텐서
-Youtube Link: https://youtu.be/6SF_qAd99Yg
+<a href="https://youtu.be/6SF_qAd99Yg">딥러닝을 위한 파이토치 입문 - 텐서 유튜브 링크</a>
 
 #### Pytorch vs. Tensorflow
 
