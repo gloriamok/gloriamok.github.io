@@ -4,7 +4,7 @@ title:  "딥러닝을 위한 파이토치 입문 - 텐서"
 ---
 
 ## 딥러닝을 위한 파이토치 입문 - 텐서
-<a href="https://youtu.be/6SF_qAd99Yg">유튜브 링크: 딥러닝을 위한 파이토치 입문 - 텐서</a>
+<a href="https://youtu.be/6SF_qAd99Yg" target="_blank">유튜브 링크: 딥러닝을 위한 파이토치 입문 - 텐서</a>
 
 #### Pytorch vs. Tensorflow
 
@@ -406,9 +406,9 @@ x.item()
 
 파이토치 관련 추천 유튜브 강의
 
-1. <a href="https://www.youtube.com/watch?v=6SF_qAd99Yg&list=PLHOsBEAyYj3xf4i20sCA5o8MgVW5sIiHD&index=9">텐서 개념</a>
-2. <a href="https://www.youtube.com/watch?v=_4gEHlsvSZ8&list=PLHOsBEAyYj3xf4i20sCA5o8MgVW5sIiHD&index=10">역전파</a> 
-3. <a href="https://www.youtube.com/watch?v=8PnxJ3s3Cwo&list=PLHOsBEAyYj3xf4i20sCA5o8MgVW5sIiHD&index=11">데이터 불러오기 + 커스터마이징</a>
-4. <a href="https://www.youtube.com/watch?v=Gm9Spk2Nmj0&list=PLHOsBEAyYj3xf4i20sCA5o8MgVW5sIiHD&index=12">기본모델 구축 및 저장</a>
-5. <a href="https://www.youtube.com/watch?v=eYjcN_zwUP4&list=PLHOsBEAyYj3xf4i20sCA5o8MgVW5sIiHD&index=13">스케줄링</a>
-6. <a href="https://www.youtube.com/watch?v=8WCTCBHBnP0&list=PLHOsBEAyYj3xf4i20sCA5o8MgVW5sIiHD&index=14">비지도 학습 구현</a>
+1. <a href="https://www.youtube.com/watch?v=6SF_qAd99Yg&list=PLHOsBEAyYj3xf4i20sCA5o8MgVW5sIiHD&index=9" target="_blank">텐서 개념</a>
+2. <a href="https://www.youtube.com/watch?v=_4gEHlsvSZ8&list=PLHOsBEAyYj3xf4i20sCA5o8MgVW5sIiHD&index=10" target="_blank">역전파</a> 
+3. <a href="https://www.youtube.com/watch?v=8PnxJ3s3Cwo&list=PLHOsBEAyYj3xf4i20sCA5o8MgVW5sIiHD&index=11" target="_blank">데이터 불러오기 + 커스터마이징</a>
+4. <a href="https://www.youtube.com/watch?v=Gm9Spk2Nmj0&list=PLHOsBEAyYj3xf4i20sCA5o8MgVW5sIiHD&index=12" target="_blank">기본모델 구축 및 저장</a>
+5. <a href="https://www.youtube.com/watch?v=eYjcN_zwUP4&list=PLHOsBEAyYj3xf4i20sCA5o8MgVW5sIiHD&index=13" target="_blank">스케줄링</a>
+6. <a href="https://www.youtube.com/watch?v=8WCTCBHBnP0&list=PLHOsBEAyYj3xf4i20sCA5o8MgVW5sIiHD&index=14" target="_blank">비지도 학습 구현</a>
