@@ -116,7 +116,7 @@ author:
       # url: "https://your-website.com"
     - label: "Blog"
       icon: "fas fa-fw fa-link"
-      # url: "https://blog.naver.com/gloriamok"
+      url: "https://blog.naver.com/gloriamok"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
