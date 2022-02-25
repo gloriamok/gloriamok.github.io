@@ -20,7 +20,7 @@ title                    : "JooYoungMok"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "github @gloriamok"
-description              : "My Amazing Website! 개발 블로그!"
+description              : "Welcome to My Amazing Website!"
 url                      : "https://gloriamok.github.io" # the base hostname & protocol for your site
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
